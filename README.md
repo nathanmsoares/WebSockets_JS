@@ -15,3 +15,5 @@ sudo apt install npm
 npm init -y
 
 npm i ws
+
+node index.js
